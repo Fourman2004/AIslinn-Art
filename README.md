@@ -17,9 +17,9 @@ A repository of Art assets for the game Aislinn
 #### Michael Moreria Engrossa
 [Michael's Portfolio](https://michael_angel.artstation.com/)
 
-## Enviroment
-### Molly Goundry
+### Enviroment
+#### Molly Goundry
 [Molly's Portfolio](https://www.artstation.com/mollygoundry)
 
-## Technical
-### Molly Goundry
+### Technical
+#### Molly Goundry
