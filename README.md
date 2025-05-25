@@ -1,3 +1,2 @@
-# art-repo
-
-Use this template to create a pre-configured repo to store large art assets
+# AIslinn-Art
+A repository of Art assets for the game Aislinn
